@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  background-color: rgb(251, 226, 249);
 }
 
 .App-logo {
@@ -13,16 +14,7 @@
   }
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
+
 
 .App-link {
   color: #61dafb;
@@ -36,3 +28,10 @@
     transform: rotate(360deg);
   }
 }
+.remove{
+  background-color: #61dafb;margin-top: 10px; margin-left: 10px;
+}
+.eya{
+  background-color: rgb(240, 169, 234);
+}
+
